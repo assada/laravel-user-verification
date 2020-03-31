@@ -1,5 +1,5 @@
 {
-    "name": "jrean/laravel-user-verification",
+    "name": "assada/laravel-user-verification",
     "description": "User Email Verification For Laravel",
     "keywords": ["laravel", "framework", "user verification", "email verification", "user activation", "email activation"],
     "license": "MIT",
